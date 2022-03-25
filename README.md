@@ -1,3 +1,4 @@
 # OIBSIP
 
-number guesing game
+p1.java is number guesing game 
+
